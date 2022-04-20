@@ -20,9 +20,9 @@ This is my second API based project. This one was a bit difficult, but I managed
 
 ### Links
 
-- Solution URL: [https://github.com/Jack-WebDev/3-Column-Card.git]
+- Solution URL: [https://github.com/Jack-WebDev/Live-User-API.git]
 
-- Live Site URL: [https://jack-webdev.github.io/3-Column-Card/]
+- Live Site URL: [https://jack-webdev.github.io/Live-User-API/]
 
 ## My Process
 
