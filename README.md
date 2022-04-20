@@ -1,4 +1,4 @@
-# Frontend Mentor - 3-Column Preview Card Component
+# Frontend Mentor - Live User Profiles
 
 ## Welcome! 👋
 
