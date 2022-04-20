@@ -1,10 +1,10 @@
-# Frontend Mentor - Live User Profiles
+# Live User Profiles
 
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
-An extra S/O to Brad Traversy for availing these challenges to help me improve my coding skills by building realistic projects.
+An extra S/O to Brad Traversy for availing this challenge to help me improve my coding skills by building realistic projects.
 
 ## Table of Contents
 
