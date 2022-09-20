@@ -20,9 +20,9 @@ This is my second API based project. This one was a bit difficult, but I managed
 
 ### Links
 
-- Solution URL: [https://github.com/Jack-WebDev/Live-User-API.git]
+- Solution URL: [https://github.com/Jack-WebDev/Live_User_API.git]
 
-- Live Site URL: [https://jack-webdev.github.io/Live-User-API/]
+- Live Site URL: [https://jack-webdev.github.io/Live_User_API/]
 
 ## My Process
 
